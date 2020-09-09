@@ -1,7 +1,7 @@
 # <a href="https://twitter.com/sharontahar" target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
 
 ## Description
-With the Weather app you can search locations, and get the 3 day forecast. 
+With the Weather app you can search locations, and get their 5 day forecast. 
 If you want to store them, you will need to sign up, and add them to your profile page. after which you will be able to get their current weather at any given time. 
 
 
